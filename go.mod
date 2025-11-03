@@ -1,4 +1,4 @@
-module github.com/reiver/go-http2https
+module codeberg.org/reiver/go-http2https
 
 go 1.24.3
 
